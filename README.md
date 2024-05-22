@@ -2,7 +2,7 @@
 
 🧠 Work in Progress
 
-My first completely independent data science project; from establishing a question, scoping the project, sourcing and cleaning the dataset, conducting exploratory data analysis statistical and causal inference, and finally summarizing the results. 
+My first completely independent data science project; from establishing a question, scoping the project, sourcing and cleaning the dataset, conducting exploratory data analysis, statistical and causal inference, and finally summarizing the results. 
  
 Dataset downloaded from: 
 https://data.torontopolice.on.ca/datasets/TorontoPS::killed-and-seriously-injured/about
