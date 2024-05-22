@@ -1,4 +1,8 @@
-# KSI_Motor_Vehicle_Collisions
+# Has the implementation of Vision Zero reduced the rate of KSI Motor Vehicle Collisions in Toronto?
+
+🧠 Work in Progress
+
+My first completely independent data science project; from establishing a question, scoping the project, sourcing and cleaning the dataset, conducting exploratory data analysis statistical and causal inference, and finally summarizing the results. 
  
 Dataset downloaded from: 
-https://data.torontopolice.on.ca/datasets/TorontoPS::ksi/about
+https://data.torontopolice.on.ca/datasets/TorontoPS::killed-and-seriously-injured/about
