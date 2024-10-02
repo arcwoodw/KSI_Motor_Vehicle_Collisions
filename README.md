@@ -5,5 +5,9 @@
 My first completely independent data science project; from establishing a question, scoping the project, sourcing and cleaning the dataset, conducting exploratory data analysis, statistical and causal inference, and finally summarizing the results. 
  
 Datasets downloaded from: 
-Toronto: https://data.torontopolice.on.ca/datasets/TorontoPS::killed-and-seriously-injured/about /n
+
+
+Toronto: https://data.torontopolice.on.ca/datasets/TorontoPS::killed-and-seriously-injured/about
+
+
 Montreal: https://donnees.montreal.ca/dataset/collisions-routieres
